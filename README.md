@@ -1,2 +1,2 @@
 # Solidity
-Curalted List Of Solidity Files
+Curated List Of Solidity Files
